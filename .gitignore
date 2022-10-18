@@ -36,3 +36,6 @@ override.tf.json
 .vscode/*
 # fichero para las variables
 terraform.tfvars
+
+# Fichero de bloqueo de hcl
+.terraform.lock.hcl
